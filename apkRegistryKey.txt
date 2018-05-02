@@ -1,1 +1,7 @@
+HKEY_CLASSES_ROOT
+>Add key .apk
+>Add key shell
+>Add key Install with ADB
+>Add key command
+>Set value:
 C:\\PATHTOBATCH\\installWithApk.bat "%1"
